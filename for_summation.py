@@ -5,4 +5,4 @@ for i in range(number):
       i = i + 1
       sum = sum + i
 
-print("i =", sum)
+print(sum)
