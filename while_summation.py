@@ -1,4 +1,4 @@
-number = int(input("Please enter a number: "))
+number = int(input())
 i = 1
 num = 1
 sum = 0
